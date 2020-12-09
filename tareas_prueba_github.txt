@@ -1,0 +1,14 @@
+TAREAS EN GITHUB:
+
+* Walter:
+	* Creación repositorio
+	* Modelo (modelo_BD_gymasia.jpg)
+* Miguel:
+	* Inserts (insert_table_gymasia_vs2.sql)
+* Valentina:
+	* Foto modelo instrucción (modelo_instruc.jpg)
+	* Create table (create_table_gymasia.sql)
+* Claudio:
+	* Consultas SQL modelo
+* Sebastian: 
+	* Interfaz gráfica web
